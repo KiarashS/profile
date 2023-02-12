@@ -5,4 +5,5 @@ Hamedan, Iran, in 2014, and his MS degree in Department of Computer and
 Information Technology Engineering from the Razi University, Kermanshah,
 Iran, in 2018. He is interested in machine learning, computer vision, image
 processing, IoT, and big data. Much of his research and interest are about
-the applications of the AI in medical and smart environment.
+the applications of the AI in medical, healthcare, smart health, and smart
+environment.
