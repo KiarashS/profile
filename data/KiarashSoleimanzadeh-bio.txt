@@ -1,8 +1,7 @@
-Kiarash Soleimanzadeh is a teaching assistant, researcher, and software engineer 
-who aims to evolve, innovate, and inspire through technology. He received his BS 
-degree in software engineering from Malayer University, Malayer, Hamedan, Iran, 
-in 2014, and his MS degree in the Department of Computer and Information Technology 
-Engineering from the Razi University, Kermanshah, Iran, in 2018. He is interested 
-in applications of artificial intelligence in applications of computer engineering 
-and computer science in healthcare (smart-healthcare) and natural language processing 
-to improve quality of life.
+Kiarash Soleimanzadeh is a teaching assistant, researcher, software engineer, and 
+a smart-healthcare enthusiast. He received his BS degree in software engineering 
+from Malayer University, Malayer, Hamedan, Iran, in 2014, and his MS degree in 
+the Department of Computer and Information Technology Engineering from the Razi 
+University, Kermanshah, Iran, in 2018. He is interested in applications of computer 
+engineering and computer science in healthcare (smart-healthcare) and natural language 
+processing to improve quality of life.
