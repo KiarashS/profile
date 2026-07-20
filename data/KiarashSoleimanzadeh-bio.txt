@@ -1,8 +1,7 @@
 Kiarash Soleimanzadeh is a researcher, software engineer, and a science 
 enthusiast. He received his master's degree in Information Technology 
-Engineering from the Razi University in 2018, and his bachelor's degree 
-in Software Engineering from Malayer University in 2014. He is interested 
-in machine/deep learning, computer vision, AI for medicine/healthcare, 
-medical image/signal analysis, explainable (XAI), large language models, 
-multimodal learning, natural language processing, and data analytics to 
-improve quality of life.
+Engineering, and his bachelor's degree in Software Engineering. He is 
+interested in machine/deep learning, computer vision, AI for 
+medicine/healthcare, medical image/signal analysis, explainable (XAI), 
+large language models, multimodal learning, natural language processing, 
+and data analytics to improve quality of life.
